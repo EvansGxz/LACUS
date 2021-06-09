@@ -1,0 +1,24 @@
+.center {
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #map {
+    height:  100%;
+  }
+      /*Reseteamos el margen de html y body*/
+      html,body{ margin: 0;}
+      /* declaramos un color y una altura full*/
+      .div_contenedor{
+       height: 100vh;
+      }
+      /* declaramos un color, un ancho y una altura*/
+      .div_centrado{
+        width: 90%;       
+        height: 100%;
+        margin: 0 auto;
+        right: 0px;
+        position: absolute;
+    }
+      
