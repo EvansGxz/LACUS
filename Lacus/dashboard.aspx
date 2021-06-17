@@ -1,5 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="dashboard.aspx.cs" Inherits="Lacus.dashboard" %>
 <!-- ESTE ES EL PANEL DE ADMINISTRACIÓN DONDE VEREMOS INFORMACIÓN MEDIBLE -->
+<!-- Mensaje de Prueba Para ver si puedo enviar informacion -->
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
