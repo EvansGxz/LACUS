@@ -56,4 +56,4 @@ C:\Users\Evans\Desktop\Lacus\Lacus\Lacus\obj\Debug\Lacus.csproj.CoreCompileInput
 C:\Users\Evans\Desktop\Lacus\Lacus\Lacus\obj\Debug\Lacus.csproj.CopyComplete
 C:\Users\Evans\Desktop\Lacus\Lacus\Lacus\obj\Debug\Lacus.dll
 C:\Users\Evans\Desktop\Lacus\Lacus\Lacus\obj\Debug\Lacus.pdb
-C:\Users\Evans\Desktop\Lacus\LACUS\Lacus\obj\Debug\Lacus.csprojAssemblyReference.cache
+C:\Users\Evans\Desktop\LACUS\LACUS\Lacus\obj\Debug\Lacus.csproj.AssemblyReference.cache
